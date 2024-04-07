@@ -1,4 +1,4 @@
-![logo](https://github.com/villan7667/villan7667/blob/main/Coding%20GIF%20-%20Coding%20-%20Discover%20%26%20Share%20GIFs.gif)
+![logo](https://i0.wp.com/codemyui.com/wp-content/uploads/2016/11/sun-rise-with-rays-over-mountain.gif?fit=880%2C440&ssl=1)
 <h1 align="center">Hi,I'm Ankit Kumar</h1>
 <h3 align="center">Dedicated and innovative Computer Science Engineer with one year of hands-on experience in web development. Possesses a strong foundation in programming languages including C, C++, Java, Python, and proficiency in web technologies such as HTML and CSS.</h3>
 <img align="right"alt="coding" width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
