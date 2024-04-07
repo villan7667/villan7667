@@ -4,9 +4,10 @@
 <img align="right"alt="coding" width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=villan7667&label=Profile%20views&color=0e75b6&style=flat" alt="villan7667" /> </p>
 
-- 📫 How to reach me **noob766709@gmail.com**
+- How to reach me
+- ⭐MY GMAIL ID :-**noob766709@gmail.com**
 
-- IF YOU THINK YOU ARE BAD **I AM YOUR DAD**
+- ⭐MY INSTA ID :- **ig_c_lac_villan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
