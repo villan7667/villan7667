@@ -1,4 +1,4 @@
-![logo](https://i0.wp.com/codemyui.com/wp-content/uploads/2016/11/sun-rise-with-rays-over-mountain.gif?fit=880%2C440&ssl=1)
+![logo]([https://i0.wp.com/codemyui.com/wp-content/uploads/2016/11/sun-rise-with-rays-over-mountain.gif?fit=880%2C440&ssl=1](https://elements-video-cover-images-0.imgix.net/4ff74ee4-df05-4759-8492-ab02105946af/video_preview/video_preview_0000.jpg?auto=compress%2Cformat&h=394&w=700&fit=min&s=a1dea27bcf60403b99ba157d2000e4c4))
 <h1 align="center">Hi,I'm Ankit Kumar</h1>
 <h3 align="center">Dedicated and innovative Computer Science Engineer with one year of hands-on experience in web development. Possesses a strong foundation in programming languages including C, C++, Java, Python, and proficiency in web technologies such as HTML and CSS.</h3>
 <img align="right"alt="coding" width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
