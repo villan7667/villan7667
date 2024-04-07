@@ -7,7 +7,7 @@
 - How to reach me
 - ⭐MY GMAIL ID :-**noob766709@gmail.com**
 
-- ⭐MY INSTA ID :- **ig_c_lac_villan**
+- ⭐MY INSTA ID :- **https://www.instagram.com/ig_c_lac_villan?igsh=MWN1cnU2ejA5aWw5dQ==**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
