@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar" height="30" width="40" /></a>
-<a href="www.instagram.com/ankit_829262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_c_lac_villan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ankit-kumar-109a53302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar" height="30" width="40" /></a>
+<a href="[www.instagram.com/ankit_829262/](https://www.instagram.com/ankit_829262/?utm_source=ig_web_button_share_sheet)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_c_lac_villan" height="30" width="40" /></a>
 
 </p>
 
