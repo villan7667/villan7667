@@ -1,25 +1,49 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi,I'm Ankit Kumar</h1>
-<h3 align="center">Dedicated and innovative Computer Science Engineer with one year of hands-on experience in web development. Possesses a strong foundation in programming languages including C, C++, Java, Python, and proficiency in web technologies such as HTML and CSS.</h3>
-<img align="right"alt="coding" width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=villan7667&label=Profile%20views&color=0e75b6&style=flat" alt="villan7667" /> </p>
 
-- 📫 How to reach me **hsgf7667@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/ankit-kumar-109a53302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar" height="30" width="40" /></a>
-<a href="[www.instagram.com/ankit_829262/](https://www.instagram.com/ankit_829262/?utm_source=ig_web_button_share_sheet)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_c_lac_villan" height="30" width="40" /></a>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code:700&size=36&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=A%20N%20K%20I%20T%20%20%20%20K%20U%20M%20A%20R;V%20I%20L%20L%20A%20N" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=villan7667&show_icons=true&locale=en&layout=compact" alt="villan7667" /></p>
+<h3 align="center">
+  Dedicated and innovative Computer Science Engineer with 2+ years of hands-on exp in web development.<br>
+  Turning ideas into clean, modern, and user-friendly web applications. <br> Strong foundation in $\color{#00FFFF}{\text{JavaScript, React, Node.js, MongoDB, Python, and Cloud}}$ and modern web technologies.
+</h3>
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/ankit-kumar-109a53302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:10px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/9798794759" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:10px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ankit_829262/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ankit__829262-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=villan7667&show_icons=true&locale=en" alt="villan7667" /></p>
+## 📫 Reach Me
+<p align="center">
+<a href="mailto:hsgf7667@gmail.com"><img src="https://img.shields.io/badge/Email-hsgf7667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:10px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/villan7667"><img src="https://img.shields.io/badge/GitHub-villan7667-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:10px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://villan7667portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ABF53?style=for-the-badge&logo=netlify&logoColor=white" style="border-radius:10px"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villan7667&" alt="villan7667" /></p>
 
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,tailwind,nodejs,django,spring,docker,kubernetes,firebase,mongodb,mysql&theme=dark" />
+</p>
 
+## 💻 Projects
+
+<p align="left">
+
+- **🌍 Explore Jharkhand App** — *MERN Stack app for tourism.* &nbsp;&nbsp; [<img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/villan7667/Explore-Jharkhand)
+- **🔐 Secrets Sharing App** — *Full Stack app with authentication.* &nbsp;&nbsp; [<img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/villan7667/secrets-massage-app)
+- **🤖 AI Notes Summarizer** — *Python & T5 model app.* &nbsp;&nbsp; [<img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/villan7667/AI-powered-notebook)
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=villan7667&color=00FFFF" alt="Profile Views" />
+  <span style="vertical-align: middle;">Made with ❤️ by </span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:700&size=20&duration=2000&pause=500&color=00FFFF&vCenter=true&width=180&lines=ANKIT+KUMAR;VILLAN" align="center" />
+</p>
