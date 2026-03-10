@@ -12,9 +12,9 @@
 </h3>
 <br>
 <p align="center">
+  <a href="https://www.instagram.com/ankit_829262/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ankit__829262-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px"/></a>
 <a href="https://www.linkedin.com/in/ankit-kumar-109a53302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:10px"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/9798794759" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:10px"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ankit_829262/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ankit__829262-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px"/></a>
 </p>
 
 ## 📫 Reach Me
